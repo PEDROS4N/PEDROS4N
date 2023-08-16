@@ -14,7 +14,7 @@
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40 src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div><br>
 
-<div><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/1141385771903877252/1141385928779255988/chainsaw-man-pochita_1.gif" height="400" width="400 /></div>
+<div><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/1141385771903877252/1141385928779255988/chainsaw-man-pochita_1.gif" height="380" width="380 /></div>
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-augusto-10659b198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
