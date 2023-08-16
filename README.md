@@ -12,8 +12,9 @@
   <img align="center" alt="Pedro-Html" height="30" width="40 src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Pedro-Css" height="30" width="40 src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40 src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/1141385771903877252/1141385928779255988/chainsaw-man-pochita_1.gif" height="290" width="290>
 </div><br>
+
+<div><img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/1141385771903877252/1141385928779255988/chainsaw-man-pochita_1.gif" height="400" width="400 /></div>
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-augusto-10659b198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
