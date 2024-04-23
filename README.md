@@ -14,8 +14,6 @@
   <img align="center" alt="Pedro-Bootstrap" height="30" width="40 src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 </div><br>
 
-<div><img align="right" alt="gif" src="https://media.discordapp.net/attachments/1141385771903877252/1141385928779255988/chainsaw-man-pochita_1.gif?ex=6627ccfb&is=66267b7b&hm=3baededa80c604c44c27a76664443aab3211b2675f8f1e4b9fcd872e92a1e6b4&" height="380" width="380 /></div>
-
 <div>
   <a href="https://www.linkedin.com/in/pedro-augusto-10659b198/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://myanimelist.net/profile/PEDROS4N" target="_blank"><img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank"></a>
